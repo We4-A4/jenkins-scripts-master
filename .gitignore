@@ -1,0 +1,13 @@
+
+#
+# eclipse meta data
+#
+/.project
+/.classpath
+/.settings
+
+# Mac OSX
+.DS_Store
+
+# IDEA IntelliJ
+.idea
